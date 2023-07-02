@@ -9,6 +9,7 @@
   <!-- <code><a href="https://www.hackerrank.com/" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://stackoverflow.com" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code> -->
   <code><a href="https://instagram.com/sanjaydevan?igshid=MzNlNGNkZWQ4Mg==" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://sanjay0712.github.io/myPortfolio/" title="My Profile"><img width="22" src="images/web.png"> My Profile</a></code>
 </h5>
 <br>
 <p align="center">
